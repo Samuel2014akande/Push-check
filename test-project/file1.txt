@@ -1,3 +1,7 @@
 This is for Sam
+<<<<<<< HEAD
 
 adding new stuffs to this file now
+=======
+Arsenal must win tomorrow
+>>>>>>> cb3ed1a37871e2f18707852e1860b89ce5262c2d
